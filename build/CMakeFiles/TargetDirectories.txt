@@ -1,0 +1,3 @@
+/home/fuxq/Documents/hello_word/build/CMakeFiles/rebuild_cache.dir
+/home/fuxq/Documents/hello_word/build/CMakeFiles/edit_cache.dir
+/home/fuxq/Documents/hello_word/build/CMakeFiles/hello.dir
