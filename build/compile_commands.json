@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/fuxq/Documents/hello_word/build",
-  "command": "/usr/bin/g++     -g -g   -std=gnu++14 -o CMakeFiles/hello.dir/main.cpp.o -c /home/fuxq/Documents/hello_word/main.cpp",
-  "file": "/home/fuxq/Documents/hello_word/main.cpp"
-}
-]
